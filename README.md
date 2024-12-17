@@ -1,4 +1,3 @@
-# DIABETES?
+# Diabetes Predictor
 
-A model made with Pytorch to predict diabetes occurrence, based on a dataset from National Institute of Diabetes and Digestive and Kidney
-Diseases.
+Classification models made with Sklearn and XGBoost for predict diabetes ocurrence. This repository uses the "Diabetes Dataset" originally from the National Institute of Diabetes and Digestive and Kidney, you read more about the dataset on: https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset. See this notebook also on Kaggle: https://www.kaggle.com/code/marcosycaro/diabetes-predictor
